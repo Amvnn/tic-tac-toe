@@ -4,6 +4,8 @@
   align-items: center;
   margin: 20px auto;
   width: fit-content;
+  justify-content: center;
+  font-size: 35px;
 }
 
 .block {
@@ -24,3 +26,4 @@
 .row {
   display: flex;
 }
+
